@@ -26,10 +26,15 @@ No link acima, tem o template detalhado
 ## 🔗Sites para Exercícios
 
 > *https://www.magazineluiza.com.br/*
+
 > *https://www.nike.com/*
+
 > *https://www.netshoes.com.br/*
+
 > *https://amazon.com.br/*
+
 > *https://www.mercadolivre.com.br*
+
 > *https://br.shein.com/*
 
 ## 💻Iniciando 
