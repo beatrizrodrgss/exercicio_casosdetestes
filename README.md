@@ -78,6 +78,7 @@ No link acima, tem o template detalhado
 
 - Ser direto é necessário para o entendimento posterior dos casos;
 - Ser detalhista ajuda a não se perder no processo;
-- É sempre bom testar funcionalidades em vários sites públicos, assim a capacidade analítica aumenta e ajuda a realizar testes com base na experiência.  
+- É sempre bom testar funcionalidades em vários sites públicos, assim a capacidade analítica aumenta e ajuda a realizar futuros testes com base na experiência de testador;
+- Caso inconformidades sejam localizadas durante o processo de teste do cenario "feliz" as mesmas são reportadas utilizando ferramentas de "bug tracker". As mais conhecidas são (Mantis, Jira, Bugzilla, Trac). Farei apontamentos em um novo artigo de como é o processo de report das inconformidades.
 
-``Finalizando por aqui.. Para visualizar casos mais detalhados acessar o link do template do notion. ``
+``Finalizando por aqui.. Para visualizar casos mais detalhados acessar o link do template do [Notion]. ``
