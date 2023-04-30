@@ -74,7 +74,7 @@ No link acima, tem o template detalhado
 
 
 
-## 📑 Resumo
+## 📑 Resumo - Geral
 
 - Ser direto é necessário para o entendimento posterior dos casos;
 - Ser detalhista ajuda a não se perder no processo;
