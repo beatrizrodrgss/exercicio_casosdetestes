@@ -18,7 +18,7 @@ O tipo menos detalhado de documentação é o cenário de teste. Um cenário de 
 Assim como os casos de teste, a flexibilidade dos cenários oferecem prós e contras similares. O conhecimento de causa e as habilidades em testes podem facilitar os testadores a transformar os cenários em ideias concretas, escolher a abordagem mais lógica e rodar os testes que podem extrair os problemas importantes. Este tipo de trabalho é um desafio para um testador habilidoso, mas pode ser difícil ou até mesmo impossível para um novato. Entretanto, se o novato estiver amparado em uma equipe, ele pode aprender o suficiente para conseguir.
 
 
-## 📑Resumo - [Notion]
+## 📑 Resumo - [Notion]
 [Notion - Base](https://thirsty-piano-160.notion.site/38b29a335ae94ef2822ee525c58af191?v=0306adb0cacf49aa86eca6c5ba088bc1)
 No link acima, tem o template detalhado 
 **Só clicar no link em azul!**
@@ -37,7 +37,7 @@ No link acima, tem o template detalhado
 
 > *https://br.shein.com/*
 
-## 💻Iniciando 
+## 💻 Iniciando ...
 
 - Escolha 1 site, ex: *https://www.magazineluiza.com.br/*;
 - Escolha funcionalidades, como - [Cadastro, Login ou Reset de senha];
@@ -74,7 +74,7 @@ No link acima, tem o template detalhado
 
 
 
-## Resumo
+## 📑 Resumo
 
 - Ser direto é necessário para o entendimento posterior dos casos;
 - Ser detalhista ajuda a não se perder no processo;
