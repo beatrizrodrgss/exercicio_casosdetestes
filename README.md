@@ -22,6 +22,7 @@ Assim como os casos de teste, a flexibilidade dos cenários oferecem prós e con
 
 ## 📑 Resumo - [Notion]
 [Notion - Base](https://thirsty-piano-160.notion.site/38b29a335ae94ef2822ee525c58af191?v=0306adb0cacf49aa86eca6c5ba088bc1)
+---
 No link acima, tem o template detalhado 
 **Só clicar no link em azul!**
 
