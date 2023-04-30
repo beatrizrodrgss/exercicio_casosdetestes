@@ -82,6 +82,7 @@ No link acima, tem o template detalhado
 - Ser detalhista ajuda a não se perder no processo;
 - É sempre bom testar funcionalidades em vários sites públicos, assim a capacidade analítica aumenta e ajuda a realizar futuros testes com base na experiência de testador;
 - Caso inconformidades apareçam durante o processo de testes as mesmas são reportadas utilizando ferramentas de "bug tracker". As mais conhecidas são (Mantis, Jira, Bugzilla, Trac). 
-- Apontamentos referente a ferramentas de "bug tracker" serão feitos em outro momento.
 
+> Apontamentos referente a ferramentas de "bug tracker" serão feitos em outro momento.
+---
 ``Finalizando por aqui.. Para visualizar casos mais detalhados acessar o link do template do [Notion]. ``
