@@ -17,6 +17,8 @@ O tipo menos detalhado de documentação é o cenário de teste. Um cenário de 
 
 Assim como os casos de teste, a flexibilidade dos cenários oferecem prós e contras similares. O conhecimento de causa e as habilidades em testes podem facilitar os testadores a transformar os cenários em ideias concretas, escolher a abordagem mais lógica e rodar os testes que podem extrair os problemas importantes. Este tipo de trabalho é um desafio para um testador habilidoso, mas pode ser difícil ou até mesmo impossível para um novato. Entretanto, se o novato estiver amparado em uma equipe, ele pode aprender o suficiente para conseguir.
 
+> Fonte: https://www.primecontrol.com.br/o-que-sao-cenarios-scripts-e-casos-de-teste/
+
 
 ## 📑 Resumo - [Notion]
 [Notion - Base](https://thirsty-piano-160.notion.site/38b29a335ae94ef2822ee525c58af191?v=0306adb0cacf49aa86eca6c5ba088bc1)
