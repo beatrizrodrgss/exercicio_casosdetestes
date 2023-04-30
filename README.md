@@ -75,7 +75,7 @@ No link acima, tem o template detalhado
 2.  Se qualquer dado estiver incorreto, o usuário não deve ser logado no sistema.
 
 
-
+---
 ## 📑 Resumo - Geral
 
 - Ser direto é necessário para o entendimento posterior dos casos;
